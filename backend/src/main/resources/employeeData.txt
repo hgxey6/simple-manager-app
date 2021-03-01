@@ -1,0 +1,31 @@
+{
+    "email": "daniel@gov.ua",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar1.png",
+    "jobTitle": "ABAP/4",
+    "name": "Daniel Craig",
+    "phone": "4570090332"
+}
+
+{
+    "email": "rlflpfpgf@gmail.com",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar2.png",
+    "jobTitle": "Java",
+    "name": "Ronaldo Santos",
+    "phone": "87712347645"
+}
+
+{
+    "email": "Smith5665@gmail.com",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar7.png",
+    "jobTitle": "C++",
+    "name": "Adam Johns",
+    "phone": "1270296332"
+}
+
+{
+    "email": "christine121@gmail.com",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar3.png",
+    "jobTitle": "JavaScript",
+    "name": "Christine Adams",
+    "phone": "1270296332"
+}
